@@ -5,7 +5,7 @@ function moveButton(btn) {
 }
 
 function accepted() {
-    location.href = 'https://www.youtube.com/watch?v=izGwDsrQ1eQ';
+    location.href = 'https://www.youtube.com/watch?v=SU6KFnGF9M8';
 }
 
 function getPosition(min, max) {
